@@ -1,1 +1,3 @@
-# computer-programming-fundamentals
+# Computer and Programming Fundamentals
+
+Reference Book: C How to Program - Deitel 
